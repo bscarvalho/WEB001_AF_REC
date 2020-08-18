@@ -1,0 +1,4 @@
+git clone https://github.com/bscarvalho/WEB001_AF_REC.git
+git add *
+git commit -m "recuperacao"
+git push origin master
